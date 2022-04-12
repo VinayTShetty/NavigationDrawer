@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/border"
+            android:icon="@drawable/ic_baseline_bookmark_border_24"
+            android:title="Border" />
+        <item
+            android:id="@+id/food_beverage"
+            android:icon="@drawable/ic_baseline_emoji_food_beverage_24"
+            android:title="Food Beverage" />
+        <item
+            android:id="@+id/foodBank"
+            android:icon="@drawable/ic_baseline_food_bank_24"
+            android:title="FoodBank" />
+        <item
+            android:id="@+id/restuarant"
+            android:icon="@drawable/ic_baseline_restaurant_menu_24"
+            android:title="Restaturant Menu" />
+    </group>
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/laptop"
+                android:icon="@drawable/ic_baseline_laptop_mac_24"
+                android:title="Laptop"></item>
+            <item
+                android:id="@+id/mobile"
+                android:icon="@drawable/ic_baseline_phone_android_24"
+                android:title="Mobile"></item>
+        </menu>
+    </item>
+</menu>

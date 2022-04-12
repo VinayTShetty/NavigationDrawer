@@ -1,0 +1,15 @@
+Reource Link :- 
+https://www.youtube.com/playlist?list=PLrnPJCHvNZuDQ-jWPw13-wY2J57Z6ep6G
+
+Nav Drawer
+
+1)Depedency is not added as Material Design Depedency is already avaliable.
+2)Android Resource Directory
+  -->New Resource Directory
+  Change Reource type to menu
+3)Click on the menu created folder and create a new menu resource file.
+4)Add Menu Resource Items in draw_menu.xml
+5)Edit the themes.xml to remove the default action bar
+6)Create the NavHeader layout i.e nav_header.xml
+7)In the activity_main.xml change the root layout to Drawer Layout
+8)Make the android use Toolbar as action bar.

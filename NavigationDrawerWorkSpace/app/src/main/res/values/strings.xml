@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">NavigationDrawer</string>
+<!-- This is used to create the Drawer action open and close for Blind people-->
+    <string name="navigation_draw_open">Navigation Drawer Open</string>
+    <string name="navigation_draw_close">Navigation Drawer Close</string>
 </resources>
